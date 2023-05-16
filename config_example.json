@@ -1,0 +1,7 @@
+{
+  "credential": {
+    "access_token": "your_token",
+    "api_key": "your_key"
+  },
+  "boardId": "your_board_id"
+}
