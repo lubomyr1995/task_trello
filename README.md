@@ -4,5 +4,6 @@ Command line script for integration with Trello API that returns a list of cards
 ### Install package:
 pip install -r requirements.txt
 ## Usage
+Create your own config.json in the project, similar to config_example.json.
 ### Run the main script:
 python main.py config.json
